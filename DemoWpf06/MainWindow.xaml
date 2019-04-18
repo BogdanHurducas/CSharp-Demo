@@ -1,0 +1,15 @@
+﻿<Window x:Class="DemoWpf06.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DemoWpf06"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="TxtChemin1" RenderTransformOrigin="0.503,0.354">
+        <Button x:Name="btnOK" Content="OK" HorizontalAlignment="Left" Margin="707,55,0,0" VerticalAlignment="Top" Width="75" Height="37" Click="btnOK_Click"/>
+        <TextBox x:Name="textSaisie" HorizontalAlignment="Left" Height="269" Margin="35,109,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="590"/>
+        <Button x:Name="btnOuvrir" Content="ouvrir" HorizontalAlignment="Left" Margin="707,142,0,0" VerticalAlignment="Top" Width="75" Height="43" Click="btnOuvrir_Click"/>
+
+    </Grid>
+</Window>

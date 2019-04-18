@@ -1,0 +1,10 @@
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\obj\Debug\DemoForms03.csprojAssemblyReference.cache
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\obj\Debug\DemoForms03.Form1.resources
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\obj\Debug\DemoForms03.Properties.Resources.resources
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\obj\Debug\DemoForms03.csproj.GenerateResource.cache
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\obj\Debug\DemoForms03.csproj.CoreCompileInputs.cache
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\bin\Debug\DemoForms03.exe.config
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\bin\Debug\DemoForms03.exe
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\bin\Debug\DemoForms03.pdb
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\obj\Debug\DemoForms03.exe
+C:\ConsoleDemo\ConsoleSolution\DemoForms03\obj\Debug\DemoForms03.pdb

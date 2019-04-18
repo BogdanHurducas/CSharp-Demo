@@ -1,0 +1,17 @@
+C:\ConsoleDemo\DemoWpf06\bin\Debug\DemoWpf06.exe.config
+C:\ConsoleDemo\DemoWpf06\bin\Debug\DemoWpf06.exe
+C:\ConsoleDemo\DemoWpf06\bin\Debug\DemoWpf06.pdb
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06.csprojAssemblyReference.cache
+C:\ConsoleDemo\DemoWpf06\obj\Debug\MainWindow.g.cs
+C:\ConsoleDemo\DemoWpf06\obj\Debug\App.g.cs
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06_MarkupCompile.cache
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06_MarkupCompile.lref
+C:\ConsoleDemo\DemoWpf06\obj\Debug\MainWindow.baml
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06.g.resources
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06.Properties.Resources.resources
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06.csproj.GenerateResource.cache
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06.csproj.CoreCompileInputs.cache
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06.exe
+C:\ConsoleDemo\DemoWpf06\obj\Debug\DemoWpf06.pdb
+C:\ConsoleDemo\DemoWpf06\obj\Debug\FileExplorer.g.cs
+C:\ConsoleDemo\DemoWpf06\obj\Debug\FileExplorer.baml

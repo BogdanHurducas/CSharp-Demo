@@ -1,0 +1,14 @@
+C:\ConssoleDemo\ConsoleSolution\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\ConssoleDemo\ConsoleSolution\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\ConssoleDemo\ConsoleSolution\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\ConssoleDemo\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.csprojAssemblyReference.cache
+C:\ConssoleDemo\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\ConssoleDemo\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\ConssoleDemo\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.pdb
+C:\Repos\ConsoleSolution\ConsoleDemo\bin\Debug\ConsoleDemo.exe.config
+C:\Repos\ConsoleSolution\ConsoleDemo\bin\Debug\ConsoleDemo.exe
+C:\Repos\ConsoleSolution\ConsoleDemo\bin\Debug\ConsoleDemo.pdb
+C:\Repos\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.csprojAssemblyReference.cache
+C:\Repos\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.csproj.CoreCompileInputs.cache
+C:\Repos\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.exe
+C:\Repos\ConsoleSolution\ConsoleDemo\obj\Debug\ConsoleDemo.pdb

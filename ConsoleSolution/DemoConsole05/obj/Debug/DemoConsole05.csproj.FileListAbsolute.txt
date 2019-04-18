@@ -1,0 +1,7 @@
+C:\ConsoleDemo\ConsoleSolution\DemoConsole05\obj\Debug\DemoConsole05.csprojAssemblyReference.cache
+C:\ConsoleDemo\ConsoleSolution\DemoConsole05\obj\Debug\DemoConsole05.csproj.CoreCompileInputs.cache
+C:\ConsoleDemo\ConsoleSolution\DemoConsole05\bin\Debug\DemoConsole05.exe.config
+C:\ConsoleDemo\ConsoleSolution\DemoConsole05\bin\Debug\DemoConsole05.exe
+C:\ConsoleDemo\ConsoleSolution\DemoConsole05\bin\Debug\DemoConsole05.pdb
+C:\ConsoleDemo\ConsoleSolution\DemoConsole05\obj\Debug\DemoConsole05.exe
+C:\ConsoleDemo\ConsoleSolution\DemoConsole05\obj\Debug\DemoConsole05.pdb

@@ -1,0 +1,13 @@
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\DemoConsole07.exe.config
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\DemoConsole07.exe
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\DemoConsole07.pdb
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\obj\Debug\DemoConsole07.csprojAssemblyReference.cache
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\obj\Debug\DemoConsole07.csproj.CoreCompileInputs.cache
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\obj\Debug\DemoConsole07.exe
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\obj\Debug\DemoConsole07.pdb
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\EntityFramework.dll
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\EntityFramework.SqlServer.dll
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\EntityFramework.xml
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\EntityFramework.SqlServer.xml
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\bin\Debug\fr\EntityFramework.resources.dll
+C:\ConsoleDemo\ConsoleSolution\DemoConsole07\obj\Debug\DemoConsole07.csproj.CopyComplete
